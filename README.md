@@ -1,2 +1,2 @@
 # DevOps repozitorijs
-Dainis Krupenko DevOps repozitorijs pamati iesācējiem
+Dainis Krupenko DevOps repozitorijs pamati iesācējiem t
