@@ -52,3 +52,38 @@ git push
 Failu hash ir vienāds, Git neredz atšķirību starp šiem failiem:
 ![13. uzdevums module_1](./13_1.png?raw=true "13. uzdevums module_1")
 ![13. uzdevums module_2](./13_2.png?raw=true "13. uzdevums module_2")
+
+- 14. uzdevums: 
+Rezultāts apkopots: [14. uzdevums (šis fails)](./README.md "14. uzdevums")
+
+- 15. uzdevums: 
+```sh
+git clone https://github.com/hashicorp/terraform C:\Users\rix\Desktop\DevOps\git_repos\terraform\
+```
+
+- 16. uzdevums: 
+Failu hash ir vienāds, Git neredz atšķirību starp šiem failiem:
+![16. uzdevums veids Nr.1](./16_1.png?raw=true "16. uzdevums veids Nr.1")
+![16. uzdevums veids Nr.2](./16_2.png?raw=true "16. uzdevums veids Nr.2")
+
+- 17. uzdevums: 
+![17. uzdevums](./17.png?raw=true "17. uzdevums")
+
+- 18. uzdevums: 
+Septembrī "Laura Pacilio" veiktie commit:
+![18. uzdevums](./18_1.png?raw=true "18. uzdevums")
+![18. uzdevums](./18_2.png?raw=true "18. uzdevums")
+![18. uzdevums](./18_3.png?raw=true "18. uzdevums")
+
+- 19. uzdevums: 
+Laura nav veikusi commit vakar (24.04.2022):
+![19. uzdevums](./19.png?raw=true "19. uzdevums")
+
+- 20. uzdevums: 
+Rezultāts apkopots: [20. uzdevums (šis fails)](./README.md "20. uzdevums")
+
+```sh
+git add .
+git commit -m "Rezultātu apkopojums module_2 > README.md"
+git push
+```
