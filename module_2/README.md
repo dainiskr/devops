@@ -87,3 +87,8 @@ git add .
 git commit -m "Rezultātu apkopojums module_2 > README.md"
 git push
 ```
+
+- 21. uzdevums: 
+Atlasot rezultātus no pagājušā gada 20 līdz 21 aprīlim NEVAR atrast commit kurš 
+ir datēts ar 16 aprīli (neizdevās tādu atrast):
+![21. uzdevums](./21.png?raw=true "21. uzdevums")
